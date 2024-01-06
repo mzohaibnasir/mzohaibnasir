@@ -33,6 +33,10 @@ I am a ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Mean Shift Clustering &lpar;+implementation&rpar;](https://inthediary.medium.com/mean-shift-clustering-implementation-30e67fd6deb6?source=rss-d163dfab618d------2)
+- [EinSum : Einstein Sum; Making Deep Learning better](https://inthediary.medium.com/einsum-einstein-sum-making-deep-learning-better-8fffa8e55834?source=rss-d163dfab618d------2)
+- [CUDA C/C++ on Google Colaboratory](https://inthediary.medium.com/cuda-c-c-on-google-colaboratory-e10e206368f1?source=rss-d163dfab618d------2)
+- [ERC721s or NFTs -Development &amp; Deployment — Part 1](https://inthediary.medium.com/erc721s-or-nfts-development-deployment-part-1-a5584ae938eb?source=rss-d163dfab618d------2)
 <!-- BLOG-POST-LIST:END -->
 
 
