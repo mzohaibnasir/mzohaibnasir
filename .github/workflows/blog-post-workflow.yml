@@ -1,4 +1,6 @@
 name: Latest blog post workflow
+permissions:
+  contents: write
 on:
   schedule:
     # Runs every hour
