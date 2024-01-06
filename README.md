@@ -8,10 +8,13 @@
   </a>
   <a href="https://twitter.com/m_zohaibnasir">
     <img src="https://img.shields.io/badge/mzohaibnasir-white?logo=X&logoColor=black&style=for-the-badge" alt="X Badge"/>
-      
-<!--     <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/:user"> -->
-
   </a>
+
+  <a href="https://medium.com/@inthediary">
+    <img src="https://img.shields.io/badge/inthediary-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
+  </a>
+
+
 </div>
 
 
