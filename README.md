@@ -41,8 +41,8 @@ I am a ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 - [CUDA C/C++ on Google Colaboratory](https://inthediary.medium.com/cuda-c-c-on-google-colaboratory-e10e206368f1?source=rss-d163dfab618d------2)
 - [ERC721s or NFTs -Development &amp; Deployment — Part 1](https://inthediary.medium.com/erc721s-or-nfts-development-deployment-part-1-a5584ae938eb?source=rss-d163dfab618d------2)
 - [Generating a random number on the Blockchain — II](https://inthediary.medium.com/generating-a-random-number-on-the-blockchain-ii-b1cd84a8303f?source=rss-d163dfab618d------2)
+- [Chainlink 101](https://inthediary.medium.com/chainlink-101-dcf832638dc7?source=rss-d163dfab618d------2)
 - [The Oracle Problem &amp; Decentralized Oracles](https://inthediary.medium.com/the-oracle-problem-decentralized-oracles-a823ad86ce6c?source=rss-d163dfab618d------2)
-- [Generating a random number on the Blockchain](https://inthediary.medium.com/generating-a-random-number-on-the-blockchain-2cece7018c35?source=rss-d163dfab618d------2)
 <!-- BLOG-POST-LIST:END -->
 
 
