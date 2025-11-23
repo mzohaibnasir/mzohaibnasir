@@ -94,15 +94,3 @@ I love turning complex AI ideas into real-world impact. Let's connect!
 
 Read more on my [Medium blog](https://medium.com/@inthediary)!
 
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzohaibnasir&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzohaibnasir&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzohaibnasir&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
-
----
-
-Thanks for visiting! Feel free to star ⭐ or fork 🍴 my repos. Let's build something amazing together! 🚀
