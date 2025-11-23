@@ -1,96 +1,106 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/IpNXraBXBQQRFzxg6p/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/IpNXraBXBQQRFzxg6p/giphy.gif" width="100" style="border-radius: 50%;"/>
   <h1>Muhammad Zohaib Nasir</h1>
-  <p>Senior Machine Learning Engineer & AI Leader</p>
+  <p>Senior Machine Learning Engineer & AI Innovation Leader</p>
   
-  <div id="badges">
+  <div id="badges" style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/m-zohaibnasir/">
-      <img src="https://img.shields.io/badge/Mzohaibnasir-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/m_zohaibnasir">
-      <img src="https://img.shields.io/badge/mzohaibnasir-white?logo=X&logoColor=black&style=for-the-badge" alt="X Badge"/>
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
     </a>
     <a href="https://medium.com/@inthediary">
-      <img src="https://img.shields.io/badge/inthediary-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
     </a>
     <a href="mailto:m.zohaibnasir6@gmail.com">
-      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-    </a>
-    <a href="https://github.com/mzohaibnasir">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=mzohaibnasir&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mzohaibnasir&style=flat&color=0077B5&label=Profile+Views" alt="Profile Views" style="margin-top: 10px;"/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" style="border-radius: 8px;"/>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-Hey there! 👋 I'm Muhammad Zohaib Nasir, a Senior ML/AI Engineering Leader from Pakistan with 6+ years of experience driving AI transformations for Fortune 500 clients and high-growth organizations.
+### 👤 Professional Profile
+Greetings! I am Muhammad Zohaib Nasir, a seasoned Senior ML/AI Engineering Leader based in Pakistan, with over six years of expertise in spearheading AI-driven transformations for Fortune 500 enterprises and dynamic organizations.
 
-- 🚀 Architected flagship AI systems like **Unlimit** (cashierless retail with multi-camera tracking), **Genesys & LabelRx** (multi-agent business automation reducing CEO decision latency by 85%), and **Althea AI** (voice-first healthcare assistant saving 600K+ staff minutes).
-- 💼 Led teams of 8+ engineers, closed multi-million-dollar deals, and deployed production ML systems in healthcare, finance, biometrics, and more.
-- 🌍 Domain expertise in autonomous multi-agent orchestration, computer vision, generative AI, and IoT-enabled automation.
-- 🎓 BS in Computer Science from FAST National University of Computer and Emerging Sciences.
-- 📍 Based in Lahore, Pakistan | Open to remote/hybrid opportunities.
+- **Core Expertise**: Architecting scalable AI systems, including autonomous multi-agent frameworks, computer vision solutions, generative AI applications, and IoT-integrated automations.
+- **Key Achievements**: Led the development of flagship products such as **Unlimit** (a 24/7 AI-powered cashierless retail system), **Genesys & LabelRx** (executive multi-agent orchestration reducing decision latency by 85%), and **Althea AI** (voice-first healthcare platform saving over 600,000 staff minutes).
+- **Leadership**: Directed cross-functional teams of 8+ engineers, orchestrated presales strategies, and secured multi-million-dollar contracts while ensuring alignment with business objectives.
+- **Domains**: Healthcare, finance, biometrics, legal compliance, and retail automation.
+- **Education**: Bachelor of Science in Computer Science, FAST National University of Computer and Emerging Sciences.
+- **Location & Availability**: Lahore, Pakistan | Open to remote and hybrid collaborations.
 
-I love turning complex AI ideas into real-world impact. Let's connect!
+Passionate about translating cutting-edge AI into tangible business value—let's innovate together.
 
 ---
 
-### 🛠️ Skills
-#### Programming & Frameworks
+### 🛠 Technical Proficiencies
+Organized into categories for clarity:
+
+#### Core Programming & Frameworks
 - **Languages**: Python, C/C++, Bash, CUDA
-- **ML/DL Frameworks**: PyTorch, Scikit-learn, Hugging Face (Transformers, PEFT), Unsloth, OpenVINO, DLStreamer
-- **LLMs & Multimodal**: LLaMA, Mistral, Phi-2, Falcon, Qwen, Qwen2-VL, Ultravox, Claude, GPT, Gemma, SigLip
-- **Generative AI**: RAG, LoRA/QLoRA, Unsloth, Chatbots, Vision-Language Models, VAEs, Stable Diffusion, GANs (DCGAN, WGAN-GP), Vision Transformers, SAM, Data Synthesis
-- **NLP & Retrieval**: BERT, GPT, NER, Summarization, Translation, Text Generation, BM25, TF-IDF, Semantic Search, Retrieval, LangChain, LlamaIndex, LangGraph, LangSmith, LangServe, FAISS, Pinecone, ChromaDB
-- **Computer Vision**: YOLO, Faster R-CNN, Mask R-CNN, DeepLabv3, OpenCV, Detectron2, Albumentations, GStreamer, Detection, Anti-Spoofing, OCR (Tesseract), MRZ/Barcode Scanning
-- **3D & Tracking**: PyTorch 3D, Open3D, SORT, Deep SORT, Multi-View Tracking (MVT), Re-Identification (ReID), Siamese Networks, Minutiae Extraction
-- **Multi-Agent & Automation**: Agentic Workflows, LangGraph, Agent Orchestration, ReAct Agents, Multi-Agent Coordination, Task Routing, Decision Logic, Alerting Systems
-- **Prompt Engineering**: Few-shot, Chain-of-Thought, Function Calling, Prompt Caching, KV Caching
-- **IoT & Real-Time**: Sensor Fusion, Load Cells, Weight Sensors, RTSP Streaming, Real-Time Processing
-- **Web Frameworks**: Flask, FastAPI, RESTful APIs, SDK Development (Android/iOS)
-- **Cloud & Deployment**: AWS (EC2, S3, Lambda, SageMaker, Bedrock), GCP, Azure
-- **Databases**: PostgreSQL, MySQL, MongoDB, FAISS, Pinecone, Chroma DB
-- **MLOps**: Git, Docker, MLflow, CI/CD, Model Versioning, Monitoring, Model Quantization, DDP (Distributed), On-Device Inference, LangServe, Ollama, llama.cpp, Groq
+- **ML/DL Libraries**: PyTorch, Scikit-learn, Hugging Face (Transformers, PEFT), Unsloth, OpenVINO, DLStreamer
+- **LLMs & Multimodal Models**: LLaMA, Mistral, Phi-2, Falcon, Qwen, Qwen2-VL, Ultravox, Claude, GPT, Gemma, SigLip
 
-#### Domain Expertise
+#### Generative AI & NLP
+- **Techniques**: RAG, LoRA/QLoRA, Chatbots, Vision-Language Models, VAEs, Stable Diffusion, GANs (DCGAN, WGAN-GP), Vision Transformers, SAM, Data Synthesis
+- **NLP Tools**: BERT, GPT, NER, Summarization, Translation, Text Generation, BM25, TF-IDF, Semantic Search, LangChain, LlamaIndex, LangGraph, LangSmith, LangServe, FAISS, Pinecone, ChromaDB
+- **Prompt Engineering**: Few-shot, Chain-of-Thought, Function Calling, Prompt Caching, KV Caching
+
+#### Computer Vision & 3D Tracking
+- **CV Tools**: YOLO, Faster R-CNN, Mask R-CNN, DeepLabv3, OpenCV, Detectron2, Albumentations, GStreamer, Detection, Anti-Spoofing, OCR (Tesseract), MRZ/Barcode Scanning
+- **Tracking**: PyTorch 3D, Open3D, SORT, Deep SORT, Multi-View Tracking (MVT), Re-Identification (ReID), Siamese Networks, Minutiae Extraction
+
+#### Multi-Agent Systems & Automation
+- **Frameworks**: Agentic Workflows, LangGraph, Agent Orchestration, ReAct Agents, Multi-Agent Coordination, Task Routing, Decision Logic, Alerting Systems
+- **IoT & Real-Time**: Sensor Fusion, Load Cells, Weight Sensors, RTSP Streaming, Real-Time Processing
+
+#### Cloud, Deployment & MLOps
+- **Platforms**: AWS (EC2, S3, Lambda, SageMaker, Bedrock), GCP, Azure
+- **Web & APIs**: Flask, FastAPI, RESTful APIs, SDK Development (Android/iOS)
+- **Databases**: PostgreSQL, MySQL, MongoDB, FAISS, Pinecone, ChromaDB
+- **MLOps**: Git, Docker, MLflow, CI/CD, Model Versioning, Monitoring, Quantization, DDP, On-Device Inference, LangServe, Ollama, llama.cpp, Groq
+
+#### Domain Specializations
 - Healthcare AI, Legal AI, Financial Systems, Biometric Verification, KYC/Compliance
 
 ---
 
-### 🚀 Key Projects & Achievements
-- **Unlimit (Cashierless Retail System)**: Architected AI + IoT system with multi-camera tracking, ReID, sensor fusion. Achieved sub-second latency for 24/7 unmanned stores.
-- **Genesys & LabelRx (Multi-Agent Business Automation)**: Built orchestration framework with COO/CMO/CFO/Legal agents. Automated 90%+ operations, reduced CEO latency by 85%.
-- **Althea AI (Voice-First Healthcare Assistant)**: Fine-tuned Ultravox for clinic automation. 98% task completion, saved 600K+ minutes across 300K+ conversations.
-- **TripVlog Concierge**: LangGraph-based travel agent with real-time booking and itineraries via Google Places/TripAdvisor APIs.
-- **ProvBot**: Automated email/order management with Gmail/Jira/Google Drive integration.
-- **Allah-u-Alam**: RAG-based Islamic knowledge platform with hybrid retrieval and cost-optimized AWS deployment.
-- **Leo AI**: Law-enforcement assistant with LLaMA-3 RAG for legal search and VLM analysis.
-- **Fleck (Contactless Biometrics)**: Smartphone-based fingerprint verification deployed at Jazz and Meezan Bank.
-- **KnowFace (Digital KYC)**: Facial recognition platform with liveness detection, serving millions at Zong and PayMax.
-- **DataSynth**: GAN-based synthetic biometric data generator for model robustness.
+### 🌟 Selected Projects & Contributions
+- **Unlimit**: Engineered an AI-IoT cashierless retail platform with multi-camera tracking, ReID pipelines, and sensor fusion for seamless 24/7 operations and sub-second latency.
+- **Genesys & LabelRx**: Designed a multi-agent orchestration system (LangGraph) with specialized agents (CMO, CFO, Legal) automating 90%+ of routines and slashing CEO decision times by 85%.
+- **Althea AI**: Fine-tuned a voice-first healthcare assistant (Ultravox) achieving 98% task completion across 300,000+ conversations, reducing costs by 60%.
+- **TripVlog Concierge**: Developed a LangGraph-based travel agent integrating APIs for real-time bookings, itineraries, and personalized recommendations.
+- **ProvBot**: Automated email and order management via Gmail, Jira, and Google integrations, streamlining workflows.
+- **Allah-u-Alam**: Created a RAG-powered Islamic knowledge base with hybrid retrieval and cost-efficient AWS deployment.
+- **Leo AI**: Built a law-enforcement tool using LLaMA-3 RAG for secure legal searches and VLM analysis.
+- **Fleck**: Innovated contactless biometric verification using smartphone cameras, deployed at major banks.
+- **KnowFace**: Architected a digital KYC platform with facial recognition and AML screening, serving millions.
+- **DataSynth**: Utilized GANs to generate synthetic biometric data, enhancing model robustness.
 
-*Led presales, built PoCs, and closed major enterprise contracts.*
+*Proven track record in presales, PoC development, and end-to-end client management.*
 
 ---
 
-### 📝 Blog Posts
+### 📚 Publications & Insights
 <!-- BLOG-POST-LIST:START -->
-- [Mean Shift Clustering &lpar;+implementation&rpar;](https://inthediary.medium.com/mean-shift-clustering-implementation-30e67fd6deb6?source=rss-d163dfab618d------2)
-- [EinSum : Einstein Sum; Making Deep Learning better](https://inthediary.medium.com/einsum-einstein-sum-making-deep-learning-better-8fffa8e55834?source=rss-d163dfab618d------2)
+- [Mean Shift Clustering (+implementation)](https://inthediary.medium.com/mean-shift-clustering-implementation-30e67fd6deb6?source=rss-d163dfab618d------2)
+- [EinSum: Einstein Sum; Making Deep Learning Better](https://inthediary.medium.com/einsum-einstein-sum-making-deep-learning-better-8fffa8e55834?source=rss-d163dfab618d------2)
 - [CUDA C/C++ on Google Colaboratory](https://inthediary.medium.com/cuda-c-c-on-google-colaboratory-e10e206368f1?source=rss-d163dfab618d------2)
-- [ERC721s or NFTs -Development &amp; Deployment — Part 1](https://inthediary.medium.com/erc721s-or-nfts-development-deployment-part-1-a5584ae938eb?source=rss-d163dfab618d------2)
-- [Generating a random number on the Blockchain — II](https://inthediary.medium.com/generating-a-random-number-on-the-blockchain-ii-b1cd84a8303f?source=rss-d163dfab618d------2)
+- [ERC721s or NFTs - Development & Deployment — Part 1](https://inthediary.medium.com/erc721s-or-nfts-development-deployment-part-1-a5584ae938eb?source=rss-d163dfab618d------2)
+- [Generating a Random Number on the Blockchain — II](https://inthediary.medium.com/generating-a-random-number-on-the-blockchain-ii-b1cd84a8303f?source=rss-d163dfab618d------2)
 - [Chainlink 101](https://inthediary.medium.com/chainlink-101-dcf832638dc7?source=rss-d163dfab618d------2)
-- [The Oracle Problem &amp; Decentralized Oracles](https://inthediary.medium.com/the-oracle-problem-decentralized-oracles-a823ad86ce6c?source=rss-d163dfab618d------2)
+- [The Oracle Problem & Decentralized Oracles](https://inthediary.medium.com/the-oracle-problem-decentralized-oracles-a823ad86ce6c?source=rss-d163dfab618d------2)
 <!-- BLOG-POST-LIST:END -->
 
-Read more on my [Medium blog](https://medium.com/@inthediary)!
+Explore more on my [Medium profile](https://medium.com/@inthediary).
 
+
+Thank you for exploring my profile. Star ⭐ or fork 🍴 my repositories, and feel free to reach out for collaborations or discussions on AI advancements.
