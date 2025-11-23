@@ -1,50 +1,48 @@
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/IpNXraBXBQQRFzxg6p/giphy.gif" width="100"/>
+# Muhammad Zohaib Nasir
 
-    
-<div id="badges">
-  <a href="https://www.linkedin.com/in/m-zohaibnasir/">
-    <img src="https://img.shields.io/badge/Mzohaibnasir-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/m_zohaibnasir">
-    <img src="https://img.shields.io/badge/mzohaibnasir-white?logo=X&logoColor=black&style=for-the-badge" alt="X Badge"/>
-  </a>
+**Senior ML/AI Engineering Leader** | Building production AI systems at scale
 
-  <a href="https://medium.com/@inthediary">
-    <img src="https://img.shields.io/badge/inthediary-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
-  </a>
+I architect and deploy enterprise AI systems that handle real money, real users, and real business problems. 6+ years turning research into revenue.
 
+## What I Build
 
-</div>
+**Unlimit** (2024)  
+AI + IoT cashierless retail system. 48+ camera feeds, real-time person tracking, Siamese network ReID across viewpoints, load cell sensor fusion. 24/7 unmanned store operations with sub-second latency. No humans, no checkout, no friction.
 
+**Genesys & LabelRx** (2024)  
+Multi-agent orchestration framework. COO agent coordinates CMO/CFO/Legal agents. 96% routing accuracy, 90%+ automation of routine ops, reduced CEO decision latency from days to 12 minutes. Built with LangGraph, BERT classification, Prophet forecasting, real-time Stripe + QuickBooks reconciliation.
 
-<h1>
-  hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+**Althea AI** (2024)  
+Voice-first multi-agent healthcare assistant. Ultravox fine-tuned model. 98% task completion, 600K+ minutes of staff time saved, 300K+ conversations, 60% cost reduction. QLoRA training, TensorRT inference at sub-100ms latency under concurrent load.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+**KnowFace** (2022-2024)  
+Digital KYC platform deployed at Zong and PayMax. Facial recognition, liveness detection, anti-spoofing, OCR. Serves millions of users. Built the entire pipeline from capture to core banking integration.
 
+**Fleck-BVS** (2022-2024)  
+Pakistan's first contactless four-finger biometric verification using standard smartphone cameras. Deployed at Jazz and Meezan Bank. Custom minutiae extraction, ML matching engine, anti-spoofing. No specialized hardware required.
+
+## Core Tech
+
+**LLMs & Agents**: LangGraph, LangChain, multi-agent orchestration, RAG, LoRA/QLoRA fine-tuning  
+**Computer Vision**: YOLO, Mask R-CNN, Siamese networks, ReID, multi-camera tracking, segmentation  
+**Infrastructure**: AWS (EC2, Lambda, SageMaker), GCP, Docker, MLflow, distributed training (DDP)  
+**Specialized**: Biometric systems, IoT sensor fusion, real-time streaming, RTSP, GStreamer
+
+## Recent Writing
+
+I write about implementation details, not theory:
+
+- [Mean Shift Clustering (+implementation)](https://inthediary.medium.com/mean-shift-clustering-implementation-30e67fd6deb6)
+- [EinSum: Making Deep Learning Better](https://inthediary.medium.com/einsum-einstein-sum-making-deep-learning-better-8fffa8e55834)
+- [CUDA C/C++ on Google Colab](https://inthediary.medium.com/cuda-c-c-on-google-colaboratory-e10e206368f1)
+
+## Contact
+
+**Email**: m.zohaibnasir6@gmail.com  
+**LinkedIn**: [linkedin.com/in/m-zohaibnasir](https://linkedin.com/in/m-zohaibnasir)  
+**Medium**: [@inthediary](https://medium.com/@inthediary)  
+**Location**: Pakistan
 
 ---
 
-### :man_technologist: About Me :
-I am a ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan.
-
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-- [Mean Shift Clustering &lpar;+implementation&rpar;](https://inthediary.medium.com/mean-shift-clustering-implementation-30e67fd6deb6?source=rss-d163dfab618d------2)
-- [EinSum : Einstein Sum; Making Deep Learning better](https://inthediary.medium.com/einsum-einstein-sum-making-deep-learning-better-8fffa8e55834?source=rss-d163dfab618d------2)
-- [CUDA C/C++ on Google Colaboratory](https://inthediary.medium.com/cuda-c-c-on-google-colaboratory-e10e206368f1?source=rss-d163dfab618d------2)
-- [ERC721s or NFTs -Development &amp; Deployment — Part 1](https://inthediary.medium.com/erc721s-or-nfts-development-deployment-part-1-a5584ae938eb?source=rss-d163dfab618d------2)
-- [Generating a random number on the Blockchain — II](https://inthediary.medium.com/generating-a-random-number-on-the-blockchain-ii-b1cd84a8303f?source=rss-d163dfab618d------2)
-- [Chainlink 101](https://inthediary.medium.com/chainlink-101-dcf832638dc7?source=rss-d163dfab618d------2)
-- [The Oracle Problem &amp; Decentralized Oracles](https://inthediary.medium.com/the-oracle-problem-decentralized-oracles-a823ad86ce6c?source=rss-d163dfab618d------2)
-<!-- BLOG-POST-LIST:END -->
-
-
-
-</div>
+I don't build demos. I build systems that ship.
